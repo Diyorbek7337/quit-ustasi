@@ -1,0 +1,7 @@
+# O'yin build.py bilan yig'iladi va public/ ichiga tayyor holda commit qilinadi.
+[build]
+  publish = "public"
+  command = ""
+
+[functions]
+  directory = "netlify/functions"
